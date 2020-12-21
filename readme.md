@@ -1,6 +1,8 @@
 # Website (Shells)
 This is my first fully functioning website, in this website you can find a little bit of everything, from css formatting to bootstrap library and java script. 
 
+# Features:
+
 ## Lucky Shell
 The lucky shell, was done by receiving data from an api located inside the website.
 

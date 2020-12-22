@@ -9,12 +9,12 @@ window.onscroll = () => {
     }
 }
 let conchas = [
-    ["Cassidae","/img/conchas/cassidae.jpg"],
-    ["Brachiopoda","/img/conchas/brachiopoda.jpg"],
-    ["Conidae","/img/conchas/conidae.jpg"],
-    ["Cypraeidae","/img/conchas/cypraeidae.jpg"],
-    ["Volutidae","/img/conchas/volutidae.jpg"],
-    ["Fasciolariidae","/img/conchas/fasciolariidae.jpg"],
+    ["Cassidae","img/conchas/cassidae.jpg"],
+    ["Brachiopoda","img/conchas/brachiopoda.jpg"],
+    ["Conidae","img/conchas/conidae.jpg"],
+    ["Cypraeidae","img/conchas/cypraeidae.jpg"],
+    ["Volutidae","img/conchas/volutidae.jpg"],
+    ["Fasciolariidae","img/conchas/fasciolariidae.jpg"],
 ];
 window.onload = (evt) => {
     document.getElementById("random-concha").addEventListener("click", () => {
